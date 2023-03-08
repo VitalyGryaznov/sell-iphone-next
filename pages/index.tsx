@@ -31,7 +31,7 @@ export default function Home() {
     
     
   />
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           Wahrscheinlich denken Sie darüber nach, ein neues iPhone zu kaufen. Da
           macht es Sinn, sich zu überlegen, was man mit dem alten Gerät macht.
@@ -43,7 +43,7 @@ export default function Home() {
           zu akzeptieren, daß es schwierig werden kann, die für Sie beste Lösung
           zu finden.
         </div>
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           Wir haben die besten Möglichkeiten zusammengestellt wie Sie Bargeld
           für ihr iPhone bekommen können und beschreiben sie hier mit ihren Vor-
@@ -54,7 +54,7 @@ export default function Home() {
         <h2 className="article_subheader">
           Inzahlungnahme für den Kauf eines neuen iPhones
         </h2>
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           Das iPhone Inzahlungnahme Programm von Apple bietet eine einfache
           Möglichkeit sich ein neues iPhone zu leisten günstiger anzuschaffen,
@@ -62,7 +62,7 @@ export default function Home() {
           Store.
         </div>
        
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           Wenn Sie wissen wollen, wie hoch der Inzahlungnahmepreis Ihres iPhones
           ist, können Sie das ganz einfach herausfinden. Wählen Sie einfach ein
@@ -75,7 +75,7 @@ export default function Home() {
           eingeben und Sie werden den geschätzten Preis sehen.
         </div>
         <h2 className="article_subheader">Verkauf an Ankaufsdienst</h2>
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           <p>
             Auch eine schnelle und einfache Möglichkeit. Sie müssen nur ein
@@ -100,7 +100,7 @@ export default function Home() {
         <h2 className="article_subheader">iPhon selbst verkaufen</h2>
 
         <h3 className="article_h3header">Kleinanzeigen</h3>
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           <p>
             Der Vorteil dieser Option ist, dass Sie Ihr Telefon zu einem
@@ -125,7 +125,7 @@ export default function Home() {
           </p>
         </div>
         <h3 className="article_h3header">eBay</h3>
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           Wenn es Ihnen nichts ausmacht, ein wenig Arbeit zu investieren, wie z.
           B. das Einstellen von Angeboten, den Versand und die Zahlung einer
@@ -134,13 +134,13 @@ export default function Home() {
           einen Ankaufsschutz und macht es den potenziellen Käufern somit
           leichter von Fremden zu kaufen.
         </div>
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           Der Nachteil? Die Gebühren. eBay erhebt eine Verkaufsgebühr für
           Produkte, die über seine Website verkauft werden: diese beträgt 10 %
           des endgültigen Verkaufspreises.
         </div>
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           Um herauszufinden, welcher Preis für Ihr Gerät bei eBay angemessen
           ist, können Sie unseren{" "}
@@ -149,7 +149,7 @@ export default function Home() {
           </a>{" "}
           verwenden.
         </div>
-        <div style={{'font-size': '20px',
+        <div style={{fontSize: '20px',
     margin: '30px 0px 30px 0px'}}>
           Das Verkaufen auf eBay hat auch seine Schattenseiten. eBay bietet
           sowohl dem Verkäufer als auch dem Käufer Schutz, aber der Kundendienst
